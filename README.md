@@ -19,7 +19,6 @@ The GinLish v0.1.0 corpus is a collection of aligned English-Tagin texts, curate
  - **English/Tagin:** 2.21
  - **Tagin/English:** 0.86
 ## About the Tagin Community
-2.1 The Tagin Community
 The Tagin people are an indigenous community primarily residing in the Upper Subansiri and Shiyomi districts of Arunachal Pradesh, a state in northeastern India. As one of the many tribal groups in this culturally diverse region, the Tagin community has maintained a distinct identity, preserving their unique language, customs, and traditions despite the pressures of modernization.
 Traditionally, the Tagin people have practiced sustainable agriculture, including shifting cultivation (jhum), and have relied on the rich biodiversity of their forest homeland for various resources. Their society is structured around clan systems, with each clan playing a specific role in the community's social and cultural fabric.
 The Tagin language, which is the focus of this corpus, is an integral part of the community's cultural heritage. It serves not just as a means of communication but also as a repository of traditional knowledge, folklore, and cultural practices. The language is used in various domains of daily life, from casual conversations to ritualistic practices and oral traditions.
